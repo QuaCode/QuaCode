@@ -36,8 +36,8 @@ console.log(ImQuaCode.printSkills())
 console.log(ImQuaCode.message())
 ```
 🇭🇳 I'm honduran |
-🐦 https://twitter.com/QuaCode |
-👉 https://www.facebook.com/QuaCode |
+🐦 twitter.com/QuaCode |
+👉 facebook.com/QuaCode |
 
 ### My jobs
 
