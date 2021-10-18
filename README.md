@@ -1,7 +1,7 @@
 ### Hi, I'm QuaCode <img src="https://firebasestorage.googleapis.com/v0/b/project-test-3c7df.appspot.com/o/2.gif?alt=media&token=4170c42f-b43a-47ee-8392-6d3c6c5376ad" alt="EXAMPLE" />
 
 
-<img src="https://firebasestorage.googleapis.com/v0/b/project-test-3c7df.appspot.com/o/3.png?alt=media&token=86196789-5787-4247-b9d1-37f6db701c46" alt="EXAMPLE" />
+<img src="https://firebasestorage.googleapis.com/v0/b/project-test-3c7df.appspot.com/o/3.png?alt=media&token=26a07cab-8f99-4907-adec-9ad2d50ba755" alt="EXAMPLE" />
 
 ```jsx
 class QuaCode {
