@@ -1,4 +1,4 @@
-### Hi, I'm QuaCode <img src="https://firebasestorage.googleapis.com/v0/b/quacode-eb12b.appspot.com/o/hi.gif?alt=media&token=726b64ec-03a0-4d34-9a24-8ca60bae0494" alt="EXAMPLE" />
+### Hi, I'm QuaCode <img src="https://firebasestorage.googleapis.com/v0/b/quacode-eb12b.appspot.com/o/hi.gif?alt=media&token=726b64ec-03a0-4d34-9a24-8ca60bae0494" alt="EXAMPLE" width="24px"/>
 
 
 <img src="https://firebasestorage.googleapis.com/v0/b/quacode-eb12b.appspot.com/o/Frame%2019.png?alt=media&token=f9b25afa-1cfe-4dfb-b2bc-bf743a42eece" alt="EXAMPLE" />
