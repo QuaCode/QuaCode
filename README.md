@@ -41,7 +41,5 @@ console.log(ImQuaCode.message())
 
 ### My jobs
 
-👉 [www.alfapros.store](https://www.alfapros.store/)
-
-👉 [peopleseguros.site](https://peopleseguros.site/)
+👉 [www.alfapros.store](https://www.alfaprostores.com/)
 
